@@ -55,7 +55,7 @@ export function ContactSection() {
               <div>
                 <h3 className="font-bold text-[#1E1E1E] mb-2">Phone</h3>
                 <p className="text-[#6B6B6B] leading-relaxed">
-                  +1 (213) 555-SEOUL
+                  +1 (213) 555-NUII
                   <br />
                   +1 (213) 555-7365
                 </p>
@@ -72,9 +72,9 @@ export function ContactSection() {
               <div>
                 <h3 className="font-bold text-[#1E1E1E] mb-2">Email</h3>
                 <p className="text-[#6B6B6B] leading-relaxed">
-                  hello@seoulstreet.com
+                  hello@nuinui.com
                   <br />
-                  reservations@seoulstreet.com
+                  reservations@nuinui.com
                 </p>
               </div>
             </motion.div>
@@ -114,7 +114,7 @@ export function ContactSection() {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Seoul Street Location"
+              title="Nui Nui Location"
             />
           </motion.div>
         </div>

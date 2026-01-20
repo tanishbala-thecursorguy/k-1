@@ -20,7 +20,7 @@ export function Footer() {
             className="text-center md:text-left"
           >
             <div className="text-3xl font-bold uppercase tracking-wide text-[#7B2FF7] mb-2">
-              SEOUL STREET
+              NUI NUI
             </div>
             <p className="text-[#6B6B6B]">Korean Street Food, Reimagined</p>
           </motion.div>
@@ -54,7 +54,7 @@ export function Footer() {
           transition={{ duration: 0.6, delay: 0.4 }}
           className="mt-12 pt-8 border-t border-[#FF4F9A]/20 text-center text-[#6B6B6B] flex items-center justify-center gap-2 flex-wrap"
         >
-          <span>© 2026 Seoul Street. Made with</span>
+          <span>© 2026 Nui Nui. Made with</span>
           <motion.span
             animate={{ scale: [1, 1.2, 1] }}
             transition={{ duration: 1, repeat: Infinity, ease: 'easeInOut' }}

@@ -39,7 +39,7 @@ export function Header() {
           className="text-2xl font-bold uppercase tracking-wide"
           style={{ color: scrolled ? '#7B2FF7' : '#FFFFFF' }}
         >
-          SEOUL STREET
+          NUI NUI
         </motion.div>
 
         {/* Desktop Nav */}
